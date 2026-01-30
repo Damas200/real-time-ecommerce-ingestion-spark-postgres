@@ -1,0 +1,13 @@
+PostgreSQL Connection Details
+----------------------------
+
+Host: localhost
+Port: 5432
+Database: spark_db
+User: spark_user
+Password: spark123
+
+Note:
+- These credentials are for local development only.
+- In production, credentials should be stored securely
+  using environment variables or a secrets manager.
