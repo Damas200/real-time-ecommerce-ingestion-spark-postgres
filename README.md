@@ -60,7 +60,7 @@ Real-Time E-Commerce Event Ingestion Pipeline/
 
 ##  Pipeline Description
 
-### 1️⃣ Data Generation
+###  Data Generation
 
 A Python script (`generate_events.py`) continuously generates fake e-commerce events and writes them as CSV files into a monitored directory.
 Each event includes:
